@@ -3,7 +3,7 @@ Mlearning For TVET Learning
 
 For full information about MLearnung, please visit:
 
-https://digital-TVET.org/oppiamobile/
+https://digital-TVET.org/MLearning/
 
 https://Mlearning.readthedocs.io/en/latest/
 
