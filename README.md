@@ -1,13 +1,13 @@
-OppiaMobile Learning
+Mlearning For TVET Learning
 ====================
 
-For full information about OppiaMobile, please visit:
+For full information about MLearnung, please visit:
 
-https://digital-campus.org/oppiamobile/
+https://digital-TVET.org/oppiamobile/
 
-https://oppiamobile.readthedocs.io/en/latest/
+https://Mlearning.readthedocs.io/en/latest/
 
 Questions, problems or issues? Please visit our community site:
 
-https://community.oppia-mobile.org/
+https://community.mlearning-mobile.org/
 
